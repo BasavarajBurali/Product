@@ -22,5 +22,6 @@ public class Product {
 
 //https://github.com/BasavarajBurali/Product.git
 //git remote add origin https://github.com/BasavarajBurali/Product.git
-
+//git remote set-url origin https://github.com/BasavarajBurali/Product.git
 //am not getting this file
+
